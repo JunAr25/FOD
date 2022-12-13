@@ -1,0 +1,62 @@
+html {
+  background-image: url(https://2.bp.blogspot.com/-KmBZZlTmnNg/XJRx5wEIiOI/AAAAAAAAAuw/qsk2tIB6p7c_J2ULi-F6ePkcahqE4JDzgCLcBGAs/s1600/Sisi_Udara_Air_Side.jpg);
+  text-align: center;
+  
+  color: white;
+}
+
+.App-header {
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 10px;
+  color: black;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+
+.pre_img{
+  height: 600px;
+  width: 600px;
+  background-color: white;
+}
+
+input[type=file]{
+  background-color: rgb(0, 4, 5);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  margin: 40px 40px;
+  /* display: none; */
+
+}
+
+#pre{
+  background-color: #4CAF50; /* Green */
+  border: 50px;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  margin: 10px 40px;
+}
+
+p{
+  margin: 50px;
+  font-size: 72px;
+}
